@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "T-shirt",
+    
+    "images" : [
+
+        {
+            "id": 11,
+            "imageName": "xchg_sx"
+
+        },
+        {
+            "id": 12,
+            "imageName": "xchg_sx23"
+        }
+    ] 
+}
